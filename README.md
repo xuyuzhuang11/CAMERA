@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="Paper">
-    <img src="https://img.shields.io/badge/ArXiv-2508.02322-b31b1b.svg" alt="Arxiv Paper Link">
+    <img src="https://img.shields.io/badge/AAAI-2026-b31b1b.svg" alt="Arxiv Paper Link">
   </a>
   <a href="License">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="GitHub Code License">
