@@ -17,4 +17,5 @@ module load cuda/12.4.1
 # export CUDA_VISIBLE_DEVICES=0
 export HF_ENDPOINT=https://hf-mirror.com
 
+# python eval_ppl.py
 python eval_tasks.py
