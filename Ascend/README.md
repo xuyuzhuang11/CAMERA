@@ -26,7 +26,7 @@
 
 <div align="center">
   <br>
-  <img src="../github.png" style="width: 25%">
+  <img src="./github_ascend.png" style="width: 25%">
 </div>
 
 <p align="center">
