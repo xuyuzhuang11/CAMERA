@@ -41,7 +41,7 @@
 
 ---
 
-## 📖 Introduction (Ascend Edition)
+## 📖 Introduction (Ascend Version)
 
 This directory contains the implementation of **CAMERA** adapted for **Ascend (NPU)** platforms. We focus on optimizing the **openPangu-Embedded-7B-V1.1** model, demonstrating that CAMERA's structural pruning capabilities can be effectively combined with hardware-specific quantization for significant inference acceleration.
 
